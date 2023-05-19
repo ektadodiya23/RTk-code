@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RTK-output/static/css/main.073c9b0a.css",
+    "main.js": "/RTK-output/static/js/main.9cdc0a05.js",
+    "static/js/787.194c9ce9.chunk.js": "/RTK-output/static/js/787.194c9ce9.chunk.js",
+    "index.html": "/RTK-output/index.html",
+    "main.073c9b0a.css.map": "/RTK-output/static/css/main.073c9b0a.css.map",
+    "main.9cdc0a05.js.map": "/RTK-output/static/js/main.9cdc0a05.js.map",
+    "787.194c9ce9.chunk.js.map": "/RTK-output/static/js/787.194c9ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9cdc0a05.js"
+  ]
+}
